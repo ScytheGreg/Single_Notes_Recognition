@@ -1,4 +1,9 @@
-# Byte-compiled / optimized / DLL files
+# Local help
+plot_display.ipynb
+plot_chroma.ipynb
+audio_feature_extractions_tutorial.ipynb
+
+# Byte-compiled / optimized / DLL file
 __pycache__/
 *.py[codz]
 *$py.class
