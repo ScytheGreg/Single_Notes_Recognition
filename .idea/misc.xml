@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/anaconda3/envs/A_E_Guitar_Recognition-312" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/anaconda3/envs/Single_Notes_Recognition-312" project-jdk-type="Python SDK" />
 </project>
